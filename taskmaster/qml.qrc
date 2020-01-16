@@ -1,0 +1,20 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>loadPage.qml</file>
+        <file>mainPage.qml</file>
+        <file>Square150x150Logo.png</file>
+        <file>icons8-kalender-32.png</file>
+        <file>icons8-lesezeichen-32.png</file>
+        <file>icons8-ok-32.png</file>
+        <file>MyModel.qml</file>
+        <file>MyDelegate.qml</file>
+        <file>Database.js</file>
+        <file>Header.qml</file>
+        <file>icons8-löschen-32.png</file>
+        <file>icons8-häkchen-32.png</file>
+        <file>icons8-support-32.png</file>
+        <file>icons8-löschen-32 (1).png</file>
+        <file>Storage.js</file>
+    </qresource>
+</RCC>
